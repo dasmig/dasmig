@@ -50,6 +50,13 @@ I maintain a set of open-source **C++23 header-only libraries** for procedural g
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dasmig&show_icons=true&hide_title=true&hide_border=true&bg_color=0f0f0f&text_color=d3d4d9&icon_color=42dca3&title_color=42dca3" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasmig&layout=compact&hide_title=true&hide_border=true&bg_color=0f0f0f&text_color=d3d4d9&title_color=42dca3&langs_count=6" alt="Top Languages" height="165">
+  <a href="https://github.com/dasmig">
+    <img src="https://streak-stats.demolab.com?user=dasmig&theme=transparent&hide_border=true&ring=42dca3&fire=42dca3&currStreakLabel=42dca3&sideLabels=d3d4d9&currStreakNum=d3d4d9&sideNums=d3d4d9&dates=8b8d97&background=0f0f0f" alt="GitHub Streak" height="165">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dasmig">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dasmig&bg_color=0f0f0f&color=d3d4d9&line=42dca3&point=42dca3&area=true&area_color=42dca3&hide_border=true" alt="Activity Graph" width="95%">
+  </a>
 </p>
