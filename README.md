@@ -17,7 +17,7 @@
 
 Senior software engineer at **AEL Sistemas** (defense & aerospace). I design architectures, lead teams, and ship products across GIS data processing, automated test platforms, and AI-powered analysis tools. CS degree from UFRGS.
 
-I maintain a set of open-source **C++23 header-only libraries** for procedural generation — all of which run live in the browser via WebAssembly.
+I maintain a set of open-source **C++23 header-only libraries** for procedural generation — most of which run live in the browser via WebAssembly.
 
 ---
 
@@ -29,10 +29,12 @@ I maintain a set of open-source **C++23 header-only libraries** for procedural g
 | [**nickname-generator**](https://github.com/dasmig/nickname-generator) | Name-based and random nickname generation from custom wordlists | ![Stars](https://img.shields.io/github/stars/dasmig/nickname-generator?style=flat-square&color=42dca3) |
 | [**birth-generator**](https://github.com/dasmig/birth-generator) | Demographically plausible birthdays using UN population data | ![Stars](https://img.shields.io/github/stars/dasmig/birth-generator?style=flat-square&color=42dca3) |
 | [**biodata-generator**](https://github.com/dasmig/biodata-generator) | Physical characteristics — height, weight, eye/hair color, blood type | ![Stars](https://img.shields.io/github/stars/dasmig/biodata-generator?style=flat-square&color=42dca3) |
+| [**interest-generator**](https://github.com/dasmig/interest-generator) | Religion, hobbies and favourite films, games, books and music by country, age and sex | ![Stars](https://img.shields.io/github/stars/dasmig/interest-generator?style=flat-square&color=42dca3) |
+| [**trait-generator**](https://github.com/dasmig/trait-generator) | Personality traits from a weighted catalogue with conflicts, synergies and Big Five axes | ![Stars](https://img.shields.io/github/stars/dasmig/trait-generator?style=flat-square&color=42dca3) |
 | [**city-generator**](https://github.com/dasmig/city-generator) | Random cities with population-weighted selection from GeoNames data | ![Stars](https://img.shields.io/github/stars/dasmig/city-generator?style=flat-square&color=42dca3) |
 | [**country-generator**](https://github.com/dasmig/country-generator) | Random countries with comprehensive metadata — geography, politics, culture | ![Stars](https://img.shields.io/github/stars/dasmig/country-generator?style=flat-square&color=42dca3) |
 | [**entity-generator**](https://github.com/dasmig/entity-generator) | Composable entity generation with typed components, EnTT/Flecs adapters | ![Stars](https://img.shields.io/github/stars/dasmig/entity-generator?style=flat-square&color=42dca3) |
-| [**generator-tech-demo**](https://github.com/dasmig/generator-tech-demo) | All seven libraries compiled to Wasm via Emscripten — [try them live](https://dasmig.github.io/generator-tech-demo/) | ![Stars](https://img.shields.io/github/stars/dasmig/generator-tech-demo?style=flat-square&color=42dca3) |
+| [**generator-tech-demo**](https://github.com/dasmig/generator-tech-demo) | Eight of the libraries compiled to Wasm via Emscripten, plus a persona demo composing them — [try them live](https://dasmig.github.io/generator-tech-demo/) | ![Stars](https://img.shields.io/github/stars/dasmig/generator-tech-demo?style=flat-square&color=42dca3) |
 
 ---
 
