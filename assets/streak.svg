@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="104" viewBox="0 0 600 104" role="img" aria-label="// contributions, past year: 1490 total, 10 current streak, 10 longest streak">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="104" viewBox="0 0 600 104" role="img" aria-label="// contributions, past year: 1491 total, 10 current streak, 10 longest streak">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0f0f0f"/>
@@ -22,7 +22,7 @@
   </g>
   <rect x=".75" y=".75" width="598.5" height="102.5" rx="11.5" fill="none" stroke="#8b7bff" stroke-opacity=".45"/>
   <text x="20" y="26" class="title">// contributions, past year</text>
-  <text x="113.3" y="68" class="num" text-anchor="middle" style="animation-delay:0.00s">1490</text>
+  <text x="113.3" y="68" class="num" text-anchor="middle" style="animation-delay:0.00s">1491</text>
   <text x="113.3" y="88" class="cap" text-anchor="middle">total</text>
   <rect x="206.7" y="40" width="1" height="46" fill="#8b7bff" fill-opacity=".25"/>
   <text x="300.0" y="68" class="num" text-anchor="middle" style="animation-delay:0.15s">10</text>
