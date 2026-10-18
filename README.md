@@ -75,7 +75,7 @@ Every library is MIT-licensed, header-only, seedable and documented on GitHub Pa
 ## Tech stack
 
 **Languages** &nbsp;
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C++23](https://img.shields.io/badge/C++23-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
@@ -84,6 +84,12 @@ Every library is MIT-licensed, header-only, seedable and documented on GitHub Pa
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=flat-square&logoColor=white)
+
+**Architecture & AI** &nbsp;
+![Microservices](https://img.shields.io/badge/Microservices-42dca3?style=flat-square&logoColor=0f0f0f)
+![TCP/ICD](https://img.shields.io/badge/TCP%2FICD-555555?style=flat-square)
+![RAG / AI Agents](https://img.shields.io/badge/RAG%20%2F%20AI%20Agents-D97757?style=flat-square)
 
 **Build & tooling** &nbsp;
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
