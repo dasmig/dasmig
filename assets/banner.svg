@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="Diego Dasso Migotto, Software Engineer and Architect">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f0f0f"/>
+      <stop offset="1" stop-color="#0d2a22"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#42dca3"/>
+      <stop offset="0.5" stop-color="#7cf0d0"/>
+      <stop offset="1" stop-color="#654ff0"/>
+    </linearGradient>
+    <radialGradient id="glowA"><stop offset="0" stop-color="#42dca3" stop-opacity=".45"/><stop offset="1" stop-color="#42dca3" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowB"><stop offset="0" stop-color="#654ff0" stop-opacity=".40"/><stop offset="1" stop-color="#654ff0" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#42dca3" stroke-opacity=".08"/>
+    </pattern>
+    <clipPath id="round"><rect width="900" height="260" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .name { font: 800 54px 'Segoe UI', Helvetica, Arial, sans-serif; fill: url(#name); }
+    .role { font: 600 22px 'Consolas', 'SFMono-Regular', monospace; fill: #d7f7ec; opacity: 0; }
+    .tag  { font: 400 14px 'Consolas', 'SFMono-Regular', monospace; fill: #7a9a90; }
+    .r1 { animation: cycle 12s infinite 0s; }
+    .r2 { animation: cycle 12s infinite 3s; }
+    .r3 { animation: cycle 12s infinite 6s; }
+    .r4 { animation: cycle 12s infinite 9s; }
+    .a { animation: driftA 9s ease-in-out infinite alternate; }
+    .b { animation: driftB 11s ease-in-out infinite alternate; }
+    .cursor { animation: blink 1s steps(1) infinite; fill: #42dca3; }
+    @keyframes cycle { 0% {opacity:0; transform:translateY(8px)} 4%,22% {opacity:1; transform:translateY(0)} 26%,100% {opacity:0; transform:translateY(-8px)} }
+    @keyframes driftA { to { transform: translate(180px, 30px) } }
+    @keyframes driftB { to { transform: translate(-200px, -20px) } }
+    @keyframes blink { 50% { opacity: 0 } }
+  </style>
+  <g clip-path="url(#round)">
+    <rect width="900" height="260" fill="url(#bg)"/>
+    <rect width="900" height="260" fill="url(#grid)"/>
+    <circle class="a" cx="140" cy="60" r="190" fill="url(#glowA)"/>
+    <circle class="b" cx="760" cy="210" r="210" fill="url(#glowB)"/>
+    <rect x=".75" y=".75" width="898.5" height="258.5" rx="17.5" fill="none" stroke="#42dca3" stroke-opacity=".35"/>
+  </g>
+  <text class="tag" x="60" y="62">// hello, world</text>
+  <text class="name" x="60" y="130">Diego Dasso Migotto</text>
+  <g transform="translate(60 184)">
+    <text class="role r1">Software Engineer &amp; Architect</text>
+    <text class="role r2">C++23 · .NET · Python</text>
+    <text class="role r3">GIS · Test Platforms · AI Agents</text>
+    <text class="role r4">Procedural generation, live in WebAssembly</text>
+  </g>
+  <rect class="cursor" x="60" y="206" width="12" height="3" rx="1"/>
+  <text class="tag" x="840" y="236" text-anchor="end">Porto Alegre, Brazil</text>
+</svg>

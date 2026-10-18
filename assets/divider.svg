@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="24" viewBox="0 0 900 24" role="presentation">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#42dca3" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#42dca3"/>
+      <stop offset="1" stop-color="#654ff0" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="pulse"><stop offset="0" stop-color="#7cf0d0"/><stop offset="1" stop-color="#42dca3" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>
+    .dot { animation: sweep 5s ease-in-out infinite alternate; }
+    @keyframes sweep { from { transform: translateX(-330px) } to { transform: translateX(330px) } }
+  </style>
+  <rect x="60" y="11" width="780" height="2" rx="1" fill="url(#line)" opacity=".7"/>
+  <circle class="dot" cx="450" cy="12" r="10" fill="url(#pulse)"/>
+  <rect x="445" y="7" width="10" height="10" rx="2" fill="#42dca3" transform="rotate(45 450 12)"/>
+</svg>

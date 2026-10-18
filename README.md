@@ -1,9 +1,6 @@
 <div align="center">
 
-# Diego Dasso Migotto
-
-**Software Engineer & Architect**<br>
-C++ · .NET · Python · Porto Alegre, Brazil
+<img src="assets/banner.svg" alt="Diego Dasso Migotto, Software Engineer & Architect" width="100%">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-42dca3?style=for-the-badge&logo=googlechrome&logoColor=0f0f0f)](https://dasmig.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dasmig/)
@@ -11,7 +8,7 @@ C++ · .NET · Python · Porto Alegre, Brazil
 
 </div>
 
-<br>
+<img src="assets/divider.svg" alt="" width="100%">
 
 ## About
 
@@ -27,7 +24,7 @@ Outside work I maintain a family of **C++23 header-only libraries** for procedur
 
 </div>
 
-<br>
+<img src="assets/divider.svg" alt="" width="100%">
 
 ## Open-Source: the generator family
 
@@ -70,7 +67,20 @@ Every library is MIT-licensed, header-only, seedable and documented on GitHub Pa
 | [**entity-generator**](https://github.com/dasmig/entity-generator) | Composable entities with typed components and EnTT / Flecs adapters. |
 | [**dasmig-core**](https://github.com/dasmig/dasmig-core) | The shared foundation vendored by the libraries above. |
 
-<br>
+<img src="assets/divider.svg" alt="" width="100%">
+
+## Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dasmig/dasmig/output/github-snake-dark.svg">
+  <img alt="Contribution graph snake" src="https://raw.githubusercontent.com/dasmig/dasmig/output/github-snake.svg">
+</picture>
+
+</div>
+
+<img src="assets/divider.svg" alt="" width="100%">
 
 ## Tech stack
 
