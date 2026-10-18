@@ -22,7 +22,7 @@ Outside work I maintain a family of **C++23 header-only libraries** for procedur
 <div align="center">
 
 <!--STATS:START-->
-![Repositories](https://img.shields.io/badge/repositories-18-42dca3?style=flat-square) ![Stars](https://img.shields.io/badge/stars-35-42dca3?style=flat-square) ![Followers](https://img.shields.io/badge/followers-12-42dca3?style=flat-square)
+![Repositories](https://img.shields.io/badge/repositories-19-42dca3?style=flat-square) ![Stars](https://img.shields.io/badge/stars-71-42dca3?style=flat-square) ![Followers](https://img.shields.io/badge/followers-12-42dca3?style=flat-square)
 <!--STATS:END-->
 
 </div>
@@ -35,7 +35,7 @@ Every library is MIT-licensed, header-only, seedable and documented on GitHub Pa
 
 ### Putting it together
 
-| | |
+| Library | What it does |
 |---|---|
 | [**persona-generator**](https://github.com/dasmig/persona-generator) | A complete character in one call: country, city, birth, body, name, interests, occupation and personality, each conditioned on the last. |
 | [**generator-cli**](https://github.com/dasmig/generator-cli) | Bulk generation from the command line as JSON Lines, CSV or JSON, repeatable with a seed. Binaries for Linux, macOS and Windows. |
@@ -43,7 +43,7 @@ Every library is MIT-licensed, header-only, seedable and documented on GitHub Pa
 
 ### Identity
 
-| | |
+| Library | What it does |
 |---|---|
 | [**name-generator**](https://github.com/dasmig/name-generator) | First names and surnames from 20+ cultures. |
 | [**nickname-generator**](https://github.com/dasmig/nickname-generator) | Name-based and random nicknames from custom wordlists. |
@@ -55,7 +55,7 @@ Every library is MIT-licensed, header-only, seedable and documented on GitHub Pa
 
 ### Places and contact
 
-| | |
+| Library | What it does |
 |---|---|
 | [**country-generator**](https://github.com/dasmig/country-generator) | Random countries with geography, politics and culture metadata. |
 | [**city-generator**](https://github.com/dasmig/city-generator) | Population-weighted cities from GeoNames data. |
@@ -65,7 +65,7 @@ Every library is MIT-licensed, header-only, seedable and documented on GitHub Pa
 
 ### Foundations
 
-| | |
+| Library | What it does |
 |---|---|
 | [**entity-generator**](https://github.com/dasmig/entity-generator) | Composable entities with typed components and EnTT / Flecs adapters. |
 | [**dasmig-core**](https://github.com/dasmig/dasmig-core) | The shared foundation vendored by the libraries above. |
@@ -81,7 +81,7 @@ Every library is MIT-licensed, header-only, seedable and documented on GitHub Pa
 | [**persona-generator**](https://github.com/dasmig/persona-generator) | today | ![Stars](https://img.shields.io/github/stars/dasmig/persona-generator?style=flat-square&color=42dca3) |
 | [**occupation-generator**](https://github.com/dasmig/occupation-generator) | today | ![Stars](https://img.shields.io/github/stars/dasmig/occupation-generator?style=flat-square&color=42dca3) |
 | [**nickname-generator**](https://github.com/dasmig/nickname-generator) | today | ![Stars](https://img.shields.io/github/stars/dasmig/nickname-generator?style=flat-square&color=42dca3) |
-| [**interest-generator**](https://github.com/dasmig/interest-generator) | today | ![Stars](https://img.shields.io/github/stars/dasmig/interest-generator?style=flat-square&color=42dca3) |
+| [**name-generator**](https://github.com/dasmig/name-generator) | today | ![Stars](https://img.shields.io/github/stars/dasmig/name-generator?style=flat-square&color=42dca3) |
 <!--RECENT:END-->
 
 <br>

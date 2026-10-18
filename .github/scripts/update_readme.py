@@ -9,6 +9,8 @@ from datetime import datetime, timezone
 USER = "dasmig"
 README = "README.md"
 RECENT_COUNT = 5
+# Forks of other repos that are still maintained as my own project.
+INCLUDED_FORKS = {"name-generator"}
 
 
 def api(path):
@@ -47,7 +49,9 @@ def main():
     repos = [
         r
         for r in api(f"/users/{USER}/repos?per_page=100&type=owner&sort=pushed")
-        if not r["fork"] and not r["archived"] and r["name"] != USER
+        if (not r["fork"] or r["name"] in INCLUDED_FORKS)
+        and not r["archived"]
+        and r["name"] != USER
     ]
 
     stars = sum(r["stargazers_count"] for r in repos)
