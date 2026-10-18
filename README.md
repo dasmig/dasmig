@@ -1,67 +1,106 @@
-<h1 align="center">Diego Dasso Migotto</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Software Engineer &amp; Architect</strong> · C++ · .NET · C# · Python<br>
-  Porto Alegre, Brazil
-</p>
+# Diego Dasso Migotto
 
-<p align="center">
-  <a href="https://dasmig.github.io"><img src="https://img.shields.io/badge/Portfolio-42dca3?style=for-the-badge&logo=googlechrome&logoColor=0f0f0f" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/dasmig/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://dasmig.github.io/generator-tech-demo/"><img src="https://img.shields.io/badge/Live%20Demos-WebAssembly-654ff0?style=for-the-badge&logo=webassembly&logoColor=white" alt="Live Demos"></a>
-</p>
+**Software Engineer & Architect**<br>
+C++ · .NET · Python · Porto Alegre, Brazil
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-42dca3?style=for-the-badge&logo=googlechrome&logoColor=0f0f0f)](https://dasmig.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dasmig/)
+[![Live Demos](https://img.shields.io/badge/Live%20Demos-WebAssembly-654ff0?style=for-the-badge&logo=webassembly&logoColor=white)](https://dasmig.github.io/generator-tech-demo/)
 
-### About
+</div>
 
-Senior software engineer at **AEL Sistemas** (defense & aerospace). I design architectures, lead teams, and ship products across GIS data processing, automated test platforms, and AI-powered analysis tools. CS degree from UFRGS.
+<br>
 
-I maintain a set of open-source **C++23 header-only libraries** for procedural generation — most of which run live in the browser via WebAssembly.
+## About
 
----
+Senior software engineer at **AEL Sistemas** (defense & aerospace). I design architectures, lead teams and ship products across GIS data processing, automated test platforms and AI-powered analysis tools. CS degree from UFRGS.
 
-### Open-Source Projects
+Outside work I maintain a family of **C++23 header-only libraries** for procedural generation of people, places and data. They compose into complete characters, and they all run live in the browser via WebAssembly.
 
-| Project | Description | |
-|---------|-------------|-|
-| [**persona-generator**](https://github.com/dasmig/persona-generator) | Complete fictional characters composed from the other generators — country, city, birth, body, name, interests, occupation and personality | ![Stars](https://img.shields.io/github/stars/dasmig/persona-generator?style=flat-square&color=42dca3) |
-| [**name-generator**](https://github.com/dasmig/name-generator) | Generate real-world first names & surnames from 20+ cultures | ![Stars](https://img.shields.io/github/stars/dasmig/name-generator?style=flat-square&color=42dca3) |
-| [**nickname-generator**](https://github.com/dasmig/nickname-generator) | Name-based and random nickname generation from custom wordlists | ![Stars](https://img.shields.io/github/stars/dasmig/nickname-generator?style=flat-square&color=42dca3) |
-| [**birth-generator**](https://github.com/dasmig/birth-generator) | Demographically plausible birthdays using UN population data | ![Stars](https://img.shields.io/github/stars/dasmig/birth-generator?style=flat-square&color=42dca3) |
-| [**biodata-generator**](https://github.com/dasmig/biodata-generator) | Physical characteristics — height, weight, eye/hair color, blood type | ![Stars](https://img.shields.io/github/stars/dasmig/biodata-generator?style=flat-square&color=42dca3) |
-| [**interest-generator**](https://github.com/dasmig/interest-generator) | Religion, hobbies and favourite films, games, books and music by country, age and sex | ![Stars](https://img.shields.io/github/stars/dasmig/interest-generator?style=flat-square&color=42dca3) |
-| [**trait-generator**](https://github.com/dasmig/trait-generator) | Personality traits from a weighted catalogue with conflicts, synergies and Big Five axes | ![Stars](https://img.shields.io/github/stars/dasmig/trait-generator?style=flat-square&color=42dca3) |
-| [**occupation-generator**](https://github.com/dasmig/occupation-generator) | Employment status, education and jobs by country, age and sex from ILO labour force statistics | ![Stars](https://img.shields.io/github/stars/dasmig/occupation-generator?style=flat-square&color=42dca3) |
-| [**city-generator**](https://github.com/dasmig/city-generator) | Random cities with population-weighted selection from GeoNames data | ![Stars](https://img.shields.io/github/stars/dasmig/city-generator?style=flat-square&color=42dca3) |
-| [**country-generator**](https://github.com/dasmig/country-generator) | Random countries with comprehensive metadata — geography, politics, culture | ![Stars](https://img.shields.io/github/stars/dasmig/country-generator?style=flat-square&color=42dca3) |
-| [**address-generator**](https://github.com/dasmig/address-generator) | Postal addresses with real streets by place from OpenStreetMap, laid out in each country's format | ![Stars](https://img.shields.io/github/stars/dasmig/address-generator?style=flat-square&color=42dca3) |
-| [**phone-generator**](https://github.com/dasmig/phone-generator) | Phone numbers valid in each country's numbering plan from libphonenumber, with a safe option for tests | ![Stars](https://img.shields.io/github/stars/dasmig/phone-generator?style=flat-square&color=42dca3) |
-| [**email-generator**](https://github.com/dasmig/email-generator) | Email addresses in each country's style from a name, nickname and birth year, with a safe option for tests | ![Stars](https://img.shields.io/github/stars/dasmig/email-generator?style=flat-square&color=42dca3) |
-| [**entity-generator**](https://github.com/dasmig/entity-generator) | Composable entity generation with typed components, EnTT/Flecs adapters | ![Stars](https://img.shields.io/github/stars/dasmig/entity-generator?style=flat-square&color=42dca3) |
-| [**generator-tech-demo**](https://github.com/dasmig/generator-tech-demo) | Twelve libraries compiled to Wasm via Emscripten, plus a persona demo composing eight of them — [try them live](https://dasmig.github.io/generator-tech-demo/) | ![Stars](https://img.shields.io/github/stars/dasmig/generator-tech-demo?style=flat-square&color=42dca3) |
+<div align="center">
 
----
+<!--STATS:START-->
+![Repositories](https://img.shields.io/badge/repositories-18-42dca3?style=flat-square) ![Stars](https://img.shields.io/badge/stars-35-42dca3?style=flat-square) ![Followers](https://img.shields.io/badge/followers-12-42dca3?style=flat-square)
+<!--STATS:END-->
 
-### Tech Stack
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly">
-</p>
+<br>
 
----
+## Open-Source: the generator family
 
-<p align="center">
-  <a href="https://github.com/dasmig">
-    <img src="https://streak-stats.demolab.com?user=dasmig&theme=transparent&hide_border=true&ring=42dca3&fire=42dca3&currStreakLabel=42dca3&sideLabels=d3d4d9&currStreakNum=d3d4d9&sideNums=d3d4d9&dates=8b8d97&background=0f0f0f" alt="GitHub Streak" height="165">
-  </a>
-</p>
+Every library is MIT-licensed, header-only, seedable and documented on GitHub Pages. [**Try them in your browser →**](https://dasmig.github.io/generator-tech-demo/)
+
+### Putting it together
+
+| | |
+|---|---|
+| [**persona-generator**](https://github.com/dasmig/persona-generator) | A complete character in one call: country, city, birth, body, name, interests, occupation and personality, each conditioned on the last. |
+| [**generator-cli**](https://github.com/dasmig/generator-cli) | Bulk generation from the command line as JSON Lines, CSV or JSON, repeatable with a seed. Binaries for Linux, macOS and Windows. |
+| [**generator-tech-demo**](https://github.com/dasmig/generator-tech-demo) | Every library compiled to WebAssembly with Emscripten, plus a persona demo. |
+
+### Identity
+
+| | |
+|---|---|
+| [**name-generator**](https://github.com/dasmig/name-generator) | First names and surnames from 20+ cultures. |
+| [**nickname-generator**](https://github.com/dasmig/nickname-generator) | Name-based and random nicknames from custom wordlists. |
+| [**birth-generator**](https://github.com/dasmig/birth-generator) | Demographically plausible birthdays from UN population data. |
+| [**biodata-generator**](https://github.com/dasmig/biodata-generator) | Height, weight, eye and hair color, blood type. |
+| [**trait-generator**](https://github.com/dasmig/trait-generator) | Weighted personality traits with conflicts, synergies and Big Five axes. |
+| [**interest-generator**](https://github.com/dasmig/interest-generator) | Religion, hobbies, films, games, books and music by country, age and sex. |
+| [**occupation-generator**](https://github.com/dasmig/occupation-generator) | Employment, education and jobs from ILO labour force statistics. |
+
+### Places and contact
+
+| | |
+|---|---|
+| [**country-generator**](https://github.com/dasmig/country-generator) | Random countries with geography, politics and culture metadata. |
+| [**city-generator**](https://github.com/dasmig/city-generator) | Population-weighted cities from GeoNames data. |
+| [**address-generator**](https://github.com/dasmig/address-generator) | Postal addresses with real streets, in each country's format. |
+| [**email-generator**](https://github.com/dasmig/email-generator) | Addresses in each country's naming style, with a `safe` mode for reserved domains. |
+| [**phone-generator**](https://github.com/dasmig/phone-generator) | Numbers valid in each country's plan (195 countries) via libphonenumber. |
+
+### Foundations
+
+| | |
+|---|---|
+| [**entity-generator**](https://github.com/dasmig/entity-generator) | Composable entities with typed components and EnTT / Flecs adapters. |
+| [**dasmig-core**](https://github.com/dasmig/dasmig-core) | The shared foundation vendored by the libraries above. |
+
+<br>
+
+## Recently updated
+
+<!--RECENT:START-->
+| Repository | Last push | |
+|---|---|---|
+| [**trait-generator**](https://github.com/dasmig/trait-generator) | today | ![Stars](https://img.shields.io/github/stars/dasmig/trait-generator?style=flat-square&color=42dca3) |
+| [**persona-generator**](https://github.com/dasmig/persona-generator) | today | ![Stars](https://img.shields.io/github/stars/dasmig/persona-generator?style=flat-square&color=42dca3) |
+| [**occupation-generator**](https://github.com/dasmig/occupation-generator) | today | ![Stars](https://img.shields.io/github/stars/dasmig/occupation-generator?style=flat-square&color=42dca3) |
+| [**nickname-generator**](https://github.com/dasmig/nickname-generator) | today | ![Stars](https://img.shields.io/github/stars/dasmig/nickname-generator?style=flat-square&color=42dca3) |
+| [**interest-generator**](https://github.com/dasmig/interest-generator) | today | ![Stars](https://img.shields.io/github/stars/dasmig/interest-generator?style=flat-square&color=42dca3) |
+<!--RECENT:END-->
+
+<br>
+
+## Tech stack
+
+**Languages** &nbsp;
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frameworks & platforms** &nbsp;
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Build & tooling** &nbsp;
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
