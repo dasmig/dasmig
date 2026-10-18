@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="44" viewBox="0 0 170 44" role="img" aria-label="Portfolio">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f0f0f"/>
+      <stop offset="1" stop-color="#0d2a22"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="170" height="44" rx="12"/></clipPath>
+  </defs>
+  <style>
+    .sweep { animation: sweep 5s ease-in-out infinite; }
+    @keyframes sweep { 0% { transform: translateX(-120px) } 60%, 100% { transform: translateX(290px) } }
+    .label { font: 600 15px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #d7f7ec; } .arrow { font: 700 16px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #42dca3; }
+  </style>
+  <g clip-path="url(#clip)">
+    <rect width="170" height="44" fill="url(#bg)"/>
+    <g transform="skewX(-20)"><rect class="sweep" x="0" y="0" width="90" height="44" fill="url(#shine)"/></g>
+  </g>
+  <rect x=".75" y=".75" width="168.5" height="42.5" rx="11.5" fill="none" stroke="#42dca3" stroke-opacity=".45"/>
+  <circle cx="22" cy="22" r="4" fill="#42dca3"/>
+  <text x="38" y="28" class="label">Portfolio</text>
+  <text x="150" y="28" class="arrow" text-anchor="end">↗</text>
+</svg>

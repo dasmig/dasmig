@@ -2,9 +2,9 @@
 
 <img src="assets/banner.svg" alt="Diego Dasso Migotto, Software Engineer & Architect" width="100%">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-42dca3?style=for-the-badge&logo=googlechrome&logoColor=0f0f0f)](https://dasmig.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dasmig/)
-[![Live Demos](https://img.shields.io/badge/Live%20Demos-WebAssembly-654ff0?style=for-the-badge&logo=webassembly&logoColor=white)](https://dasmig.github.io/generator-tech-demo/)
+<a href="https://dasmig.github.io"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="44"></a>
+<a href="https://www.linkedin.com/in/dasmig/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="44"></a>
+<a href="https://dasmig.github.io/generator-tech-demo/"><img src="assets/btn-demos.svg" alt="Live Demos, WebAssembly" height="44"></a>
 
 </div>
 
@@ -19,7 +19,7 @@ Outside work I maintain a family of **C++23 header-only libraries** for procedur
 <div align="center">
 
 <!--STATS:START-->
-![Repositories](https://img.shields.io/badge/repositories-19-42dca3?style=flat-square) ![Stars](https://img.shields.io/badge/stars-78-42dca3?style=flat-square) ![Followers](https://img.shields.io/badge/followers-12-42dca3?style=flat-square)
+<img src="assets/stats.svg" alt="Repositories, stars and followers" width="600">
 <!--STATS:END-->
 
 </div>
@@ -73,9 +73,7 @@ Every library is MIT-licensed, header-only, seedable and documented on GitHub Pa
 
 <div align="center">
 
-<a href="https://github.com/dasmig">
-  <img src="https://streak-stats.demolab.com?user=dasmig&theme=transparent&hide_border=true&ring=42dca3&fire=42dca3&currStreakLabel=42dca3&sideLabels=d3d4d9&currStreakNum=d3d4d9&sideNums=d3d4d9&dates=8b8d97&background=0f0f0f" alt="GitHub Streak" height="165">
-</a>
+<a href="https://github.com/dasmig"><img src="assets/streak.svg" alt="Contributions, past year" width="600"></a>
 
 </div>
 

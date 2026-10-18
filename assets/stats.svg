@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="104" viewBox="0 0 600 104" role="img" aria-label="// open source: 19 repositories, 78 stars, 12 followers">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f0f0f"/>
+      <stop offset="1" stop-color="#0d2a22"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="600" height="104" rx="12"/></clipPath>
+  </defs>
+  <style>
+    .sweep { animation: sweep 5s ease-in-out infinite; }
+    @keyframes sweep { 0% { transform: translateX(-120px) } 60%, 100% { transform: translateX(720px) } }
+    .title { font: 400 13px 'Consolas', 'SFMono-Regular', monospace; fill: #7a9a90; } .num { font: 800 28px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #42dca3; animation: rise .8s ease-out both; } .cap { font: 400 12px 'Consolas', 'SFMono-Regular', monospace; fill: #7a9a90; } @keyframes rise { from { opacity: 0; transform: translateY(6px) } to { opacity: 1; transform: none } }
+  </style>
+  <g clip-path="url(#clip)">
+    <rect width="600" height="104" fill="url(#bg)"/>
+    <g transform="skewX(-20)"><rect class="sweep" x="0" y="0" width="90" height="104" fill="url(#shine)"/></g>
+  </g>
+  <rect x=".75" y=".75" width="598.5" height="102.5" rx="11.5" fill="none" stroke="#42dca3" stroke-opacity=".45"/>
+  <text x="20" y="26" class="title">// open source</text>
+  <text x="113.3" y="68" class="num" text-anchor="middle" style="animation-delay:0.00s">19</text>
+  <text x="113.3" y="88" class="cap" text-anchor="middle">repositories</text>
+  <rect x="206.7" y="40" width="1" height="46" fill="#42dca3" fill-opacity=".25"/>
+  <text x="300.0" y="68" class="num" text-anchor="middle" style="animation-delay:0.15s">78</text>
+  <text x="300.0" y="88" class="cap" text-anchor="middle">stars</text>
+  <rect x="393.3" y="40" width="1" height="46" fill="#42dca3" fill-opacity=".25"/>
+  <text x="486.7" y="68" class="num" text-anchor="middle" style="animation-delay:0.30s">12</text>
+  <text x="486.7" y="88" class="cap" text-anchor="middle">followers</text>
+</svg>
