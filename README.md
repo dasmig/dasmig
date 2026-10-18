@@ -72,20 +72,6 @@ Every library is MIT-licensed, header-only, seedable and documented on GitHub Pa
 
 <br>
 
-## Recently updated
-
-<!--RECENT:START-->
-| Repository | Last push | |
-|---|---|---|
-| [**trait-generator**](https://github.com/dasmig/trait-generator) | today | ![Stars](https://img.shields.io/github/stars/dasmig/trait-generator?style=flat-square&color=42dca3) |
-| [**persona-generator**](https://github.com/dasmig/persona-generator) | today | ![Stars](https://img.shields.io/github/stars/dasmig/persona-generator?style=flat-square&color=42dca3) |
-| [**occupation-generator**](https://github.com/dasmig/occupation-generator) | today | ![Stars](https://img.shields.io/github/stars/dasmig/occupation-generator?style=flat-square&color=42dca3) |
-| [**nickname-generator**](https://github.com/dasmig/nickname-generator) | today | ![Stars](https://img.shields.io/github/stars/dasmig/nickname-generator?style=flat-square&color=42dca3) |
-| [**name-generator**](https://github.com/dasmig/name-generator) | today | ![Stars](https://img.shields.io/github/stars/dasmig/name-generator?style=flat-square&color=42dca3) |
-<!--RECENT:END-->
-
-<br>
-
 ## Tech stack
 
 **Languages** &nbsp;
