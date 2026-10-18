@@ -73,10 +73,9 @@ Every library is MIT-licensed, header-only, seedable and documented on GitHub Pa
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dasmig/dasmig/output/github-snake-dark.svg">
-  <img alt="Contribution graph snake" src="https://raw.githubusercontent.com/dasmig/dasmig/output/github-snake.svg">
-</picture>
+<a href="https://github.com/dasmig">
+  <img src="https://streak-stats.demolab.com?user=dasmig&theme=transparent&hide_border=true&ring=42dca3&fire=42dca3&currStreakLabel=42dca3&sideLabels=d3d4d9&currStreakNum=d3d4d9&sideNums=d3d4d9&dates=8b8d97&background=0f0f0f" alt="GitHub Streak" height="165">
+</a>
 
 </div>
 

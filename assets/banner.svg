@@ -39,7 +39,6 @@
     <circle class="b" cx="760" cy="210" r="210" fill="url(#glowB)"/>
     <rect x=".75" y=".75" width="898.5" height="258.5" rx="17.5" fill="none" stroke="#42dca3" stroke-opacity=".35"/>
   </g>
-  <text class="tag" x="60" y="62">// hello, world</text>
   <text class="name" x="60" y="130">Diego Dasso Migotto</text>
   <g transform="translate(60 184)">
     <text class="role r1">Software Engineer &amp; Architect</text>
