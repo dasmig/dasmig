@@ -25,6 +25,7 @@ I maintain a set of open-source **C++23 header-only libraries** for procedural g
 
 | Project | Description | |
 |---------|-------------|-|
+| [**persona-generator**](https://github.com/dasmig/persona-generator) | Complete fictional characters composed from the other generators — country, city, birth, body, name, interests, occupation and personality | ![Stars](https://img.shields.io/github/stars/dasmig/persona-generator?style=flat-square&color=42dca3) |
 | [**name-generator**](https://github.com/dasmig/name-generator) | Generate real-world first names & surnames from 20+ cultures | ![Stars](https://img.shields.io/github/stars/dasmig/name-generator?style=flat-square&color=42dca3) |
 | [**nickname-generator**](https://github.com/dasmig/nickname-generator) | Name-based and random nickname generation from custom wordlists | ![Stars](https://img.shields.io/github/stars/dasmig/nickname-generator?style=flat-square&color=42dca3) |
 | [**birth-generator**](https://github.com/dasmig/birth-generator) | Demographically plausible birthdays using UN population data | ![Stars](https://img.shields.io/github/stars/dasmig/birth-generator?style=flat-square&color=42dca3) |
@@ -34,8 +35,11 @@ I maintain a set of open-source **C++23 header-only libraries** for procedural g
 | [**occupation-generator**](https://github.com/dasmig/occupation-generator) | Employment status, education and jobs by country, age and sex from ILO labour force statistics | ![Stars](https://img.shields.io/github/stars/dasmig/occupation-generator?style=flat-square&color=42dca3) |
 | [**city-generator**](https://github.com/dasmig/city-generator) | Random cities with population-weighted selection from GeoNames data | ![Stars](https://img.shields.io/github/stars/dasmig/city-generator?style=flat-square&color=42dca3) |
 | [**country-generator**](https://github.com/dasmig/country-generator) | Random countries with comprehensive metadata — geography, politics, culture | ![Stars](https://img.shields.io/github/stars/dasmig/country-generator?style=flat-square&color=42dca3) |
+| [**address-generator**](https://github.com/dasmig/address-generator) | Postal addresses with real streets by place from OpenStreetMap, laid out in each country's format | ![Stars](https://img.shields.io/github/stars/dasmig/address-generator?style=flat-square&color=42dca3) |
+| [**phone-generator**](https://github.com/dasmig/phone-generator) | Phone numbers valid in each country's numbering plan from libphonenumber, with a safe option for tests | ![Stars](https://img.shields.io/github/stars/dasmig/phone-generator?style=flat-square&color=42dca3) |
+| [**email-generator**](https://github.com/dasmig/email-generator) | Email addresses in each country's style from a name, nickname and birth year, with a safe option for tests | ![Stars](https://img.shields.io/github/stars/dasmig/email-generator?style=flat-square&color=42dca3) |
 | [**entity-generator**](https://github.com/dasmig/entity-generator) | Composable entity generation with typed components, EnTT/Flecs adapters | ![Stars](https://img.shields.io/github/stars/dasmig/entity-generator?style=flat-square&color=42dca3) |
-| [**generator-tech-demo**](https://github.com/dasmig/generator-tech-demo) | All ten libraries compiled to Wasm via Emscripten, plus a persona demo composing eight of them — [try them live](https://dasmig.github.io/generator-tech-demo/) | ![Stars](https://img.shields.io/github/stars/dasmig/generator-tech-demo?style=flat-square&color=42dca3) |
+| [**generator-tech-demo**](https://github.com/dasmig/generator-tech-demo) | Twelve libraries compiled to Wasm via Emscripten, plus a persona demo composing eight of them — [try them live](https://dasmig.github.io/generator-tech-demo/) | ![Stars](https://img.shields.io/github/stars/dasmig/generator-tech-demo?style=flat-square&color=42dca3) |
 
 ---
 
