@@ -22,7 +22,7 @@ Outside work I maintain a family of **C++23 header-only libraries** for procedur
 <div align="center">
 
 <!--STATS:START-->
-![Repositories](https://img.shields.io/badge/repositories-19-42dca3?style=flat-square) ![Stars](https://img.shields.io/badge/stars-71-42dca3?style=flat-square) ![Followers](https://img.shields.io/badge/followers-12-42dca3?style=flat-square)
+![Repositories](https://img.shields.io/badge/repositories-19-42dca3?style=flat-square) ![Stars](https://img.shields.io/badge/stars-78-42dca3?style=flat-square) ![Followers](https://img.shields.io/badge/followers-12-42dca3?style=flat-square)
 <!--STATS:END-->
 
 </div>
