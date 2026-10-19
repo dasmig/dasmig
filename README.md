@@ -42,7 +42,7 @@ Every library is MIT-licensed, header-only, seedable and documented on GitHub Pa
 
 | Library | What it does |
 |---|---|
-| [**name-generator**](https://github.com/dasmig/name-generator) | First names and surnames from 20+ cultures. |
+| [**name-generator**](https://github.com/dasmig/name-generator) | First names and surnames from 105 cultures, composed into full names by each culture's convention. |
 | [**nickname-generator**](https://github.com/dasmig/nickname-generator) | Name-based and random nicknames from custom wordlists. |
 | [**birth-generator**](https://github.com/dasmig/birth-generator) | Demographically plausible birthdays from UN population data. |
 | [**biodata-generator**](https://github.com/dasmig/biodata-generator) | Height, weight, eye and hair color, blood type. |
