@@ -49,6 +49,7 @@ Every library is MIT-licensed, header-only, seedable and documented on GitHub Pa
 | [**trait-generator**](https://github.com/dasmig/trait-generator) | Weighted personality traits with conflicts, synergies and Big Five axes. |
 | [**interest-generator**](https://github.com/dasmig/interest-generator) | Religion, hobbies, films, games, books and music by country, age and sex. |
 | [**occupation-generator**](https://github.com/dasmig/occupation-generator) | Employment, education and jobs from ILO labour force statistics. |
+| [**relationship-generator**](https://github.com/dasmig/relationship-generator) | Families around a person: parents, siblings, partners, children, with believable ages and surnames by country. |
 
 ### Places and contact
 
