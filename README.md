@@ -60,6 +60,7 @@ Every library is MIT-licensed, header-only, seedable and documented on GitHub Pa
 | [**address-generator**](https://github.com/dasmig/address-generator) | Postal addresses with real streets, in each country's format. |
 | [**email-generator**](https://github.com/dasmig/email-generator) | Addresses in each country's naming style, with a `safe` mode for reserved domains. |
 | [**phone-generator**](https://github.com/dasmig/phone-generator) | Numbers valid in each country's plan (195 countries) via libphonenumber. |
+| [**device-generator**](https://github.com/dasmig/device-generator) | Devices whose parts agree: a model on sale at the date, its OS and browser versions, the real user agent and client hints, and an IP address registered in the country. |
 | [**user-generator**](https://github.com/dasmig/user-generator) | Synthetic user records for apps and test data: username, email, phone, address and account details, also on npm as `@dasmig/user`. |
 
 ### Foundations
