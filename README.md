@@ -58,6 +58,8 @@ Every library is MIT-licensed, header-only, seedable and documented on GitHub Pa
 | [**country-generator**](https://github.com/dasmig/country-generator) | Random countries with geography, politics and culture metadata. |
 | [**city-generator**](https://github.com/dasmig/city-generator) | Population-weighted cities from GeoNames data. |
 | [**address-generator**](https://github.com/dasmig/address-generator) | Postal addresses with real streets, in each country's format. |
+| [**weather-generator**](https://github.com/dasmig/weather-generator) | Daily and hourly weather for any place on land and any date, drawn around 1991-2020 climate normals. |
+| [**vehicle-generator**](https://github.com/dasmig/vehicle-generator) | Cars that fit their country and date: make, model, fuel and mileage, a licence plate in the format issued on the registration date, and a valid VIN. |
 | [**email-generator**](https://github.com/dasmig/email-generator) | Addresses in each country's naming style, with a `safe` mode for reserved domains. |
 | [**phone-generator**](https://github.com/dasmig/phone-generator) | Numbers valid in each country's plan (195 countries) via libphonenumber. |
 | [**device-generator**](https://github.com/dasmig/device-generator) | Devices whose parts agree: a model on sale at the date, its OS and browser versions, the real user agent and client hints, and an IP address registered in the country. |
