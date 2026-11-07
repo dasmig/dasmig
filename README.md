@@ -34,11 +34,11 @@ Every library is MIT-licensed, header-only, seedable and documented on GitHub Pa
 
 | Library | What it does |
 |---|---|
-| [**persona-generator**](https://github.com/dasmig/persona-generator) | A complete character in one call: country, city, birth, body, name, interests, occupation and personality, each conditioned on the last. |
+| [**persona-generator**](https://github.com/dasmig/persona-generator) | A complete character in one call: country, city, birth, body, name, interests, occupation and personality, each conditioned on the last, and on request papers and a wallet. Also on npm as `@dasmig/persona`. |
 | [**generator-cli**](https://github.com/dasmig/generator-cli) | Bulk generation from the command line as JSON Lines, CSV or JSON, repeatable with a seed. Binaries for Linux, macOS and Windows. |
 | [**generator-tech-demo**](https://github.com/dasmig/generator-tech-demo) | Every library compiled to WebAssembly with Emscripten, plus a persona demo. |
 
-### Identity
+### People
 
 | Library | What it does |
 |---|---|
@@ -48,22 +48,29 @@ Every library is MIT-licensed, header-only, seedable and documented on GitHub Pa
 | [**biodata-generator**](https://github.com/dasmig/biodata-generator) | Height, weight, eye and hair color, blood type. |
 | [**trait-generator**](https://github.com/dasmig/trait-generator) | Weighted personality traits with conflicts, synergies and Big Five axes. |
 | [**interest-generator**](https://github.com/dasmig/interest-generator) | Religion, hobbies, films, games, books and music by country, age and sex. |
-| [**occupation-generator**](https://github.com/dasmig/occupation-generator) | Employment, education and jobs from ILO labour force statistics. |
+| [**occupation-generator**](https://github.com/dasmig/occupation-generator) | Employment, education, jobs and income from ILO labour force and earnings statistics. |
 | [**relationship-generator**](https://github.com/dasmig/relationship-generator) | Families around a person: parents, siblings, partners, children, with believable ages and surnames by country. |
 
 ### Places and contact
 
 | Library | What it does |
 |---|---|
-| [**country-generator**](https://github.com/dasmig/country-generator) | Random countries with geography, politics and culture metadata. |
+| [**country-generator**](https://github.com/dasmig/country-generator) | Random countries with geography, politics and culture metadata, plus their locales, time zones, currencies and public holidays. |
 | [**city-generator**](https://github.com/dasmig/city-generator) | Population-weighted cities from GeoNames data. |
 | [**address-generator**](https://github.com/dasmig/address-generator) | Postal addresses with real streets, in each country's format. |
 | [**weather-generator**](https://github.com/dasmig/weather-generator) | Daily and hourly weather for any place on land and any date, drawn around 1991-2020 climate normals. |
-| [**vehicle-generator**](https://github.com/dasmig/vehicle-generator) | Cars that fit their country and date: make, model, fuel and mileage, a licence plate in the format issued on the registration date, and a valid VIN. |
+| [**vehicle-generator**](https://github.com/dasmig/vehicle-generator) | Cars and motorcycles that fit their country and date: make, model, fuel and mileage, a licence plate in the format issued on the registration date, and a valid VIN. |
 | [**email-generator**](https://github.com/dasmig/email-generator) | Addresses in each country's naming style, with a `safe` mode for reserved domains. |
 | [**phone-generator**](https://github.com/dasmig/phone-generator) | Numbers valid in each country's plan (195 countries) via libphonenumber. |
 | [**device-generator**](https://github.com/dasmig/device-generator) | Devices whose parts agree: a model on sale at the date, its OS and browser versions, the real user agent and client hints, and an IP address registered in the country. |
-| [**user-generator**](https://github.com/dasmig/user-generator) | Synthetic user records for apps and test data: username, email, phone, address and account details, also on npm as `@dasmig/user`. |
+| [**user-generator**](https://github.com/dasmig/user-generator) | Synthetic user records for apps and test data: username, email, phone, address and account details, and on request national numbers, documents, bank accounts and cards. Also on npm as `@dasmig/user`. |
+
+### Papers and money
+
+| Library | What it does |
+|---|---|
+| [**id-generator**](https://github.com/dasmig/id-generator) | National identity numbers for 63 countries, built from the birth date, sex, birthplace and names where the format encodes them, and passports and identity cards valid on the date with an ICAO 9303 machine-readable zone. Test data, with a `safe` mode. |
+| [**finance-generator**](https://github.com/dasmig/finance-generator) | Bank accounts and payment cards consistent with the person, the country and the date: IBANs and national forms with their check digits, the country's banks and currency, and cards with the right network, length and Luhn digit. Test data, never for live payment systems. |
 
 ### Foundations
 
