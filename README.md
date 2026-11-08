@@ -34,7 +34,7 @@ Every library is MIT-licensed, header-only, seedable and documented on GitHub Pa
 
 | Library | What it does |
 |---|---|
-| [**persona-generator**](https://github.com/dasmig/persona-generator) | A complete character in one call: country, city, birth, body, name, interests, occupation and personality, each conditioned on the last, and on request papers and a wallet. Also on npm as `@dasmig/persona`. |
+| [**persona-generator**](https://github.com/dasmig/persona-generator) | A complete character in one call: country, city, birth, body, name, interests, occupation and personality, each conditioned on the last, and on request papers, a wallet and a home. Also on npm as `@dasmig/persona`. |
 | [**generator-cli**](https://github.com/dasmig/generator-cli) | Bulk generation from the command line as JSON Lines, CSV or JSON, repeatable with a seed. Binaries for Linux, macOS and Windows. |
 | [**generator-tech-demo**](https://github.com/dasmig/generator-tech-demo) | Every library compiled to WebAssembly with Emscripten, plus a persona demo. |
 
@@ -58,6 +58,7 @@ Every library is MIT-licensed, header-only, seedable and documented on GitHub Pa
 | [**country-generator**](https://github.com/dasmig/country-generator) | Random countries with geography, politics and culture metadata, plus their locales, time zones, currencies and public holidays. |
 | [**city-generator**](https://github.com/dasmig/city-generator) | Population-weighted cities from GeoNames data. |
 | [**address-generator**](https://github.com/dasmig/address-generator) | Postal addresses with real streets, in each country's format. |
+| [**property-generator**](https://github.com/dasmig/property-generator) | The home a household lives in, for 199 countries: dwelling type, tenure, rooms, floor area and year built that fit the place and the household, and a monthly cost that fits its income. |
 | [**weather-generator**](https://github.com/dasmig/weather-generator) | Daily and hourly weather for any place on land and any date, drawn around 1991-2020 climate normals. |
 | [**vehicle-generator**](https://github.com/dasmig/vehicle-generator) | Cars and motorcycles that fit their country and date: make, model, fuel and mileage, a licence plate in the format issued on the registration date, and a valid VIN. |
 | [**email-generator**](https://github.com/dasmig/email-generator) | Addresses in each country's naming style, with a `safe` mode for reserved domains. |
