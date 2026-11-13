@@ -34,7 +34,7 @@ Every library is MIT-licensed, header-only, seedable and documented on GitHub Pa
 
 | Library | What it does |
 |---|---|
-| [**persona-generator**](https://github.com/dasmig/persona-generator) | A complete character in one call: country, city, birth, body, name, interests, occupation and personality, each conditioned on the last, and on request papers, a wallet and a home. Also on npm as `@dasmig/persona`. |
+| [**persona-generator**](https://github.com/dasmig/persona-generator) | A complete character in one call: country, city, birth, body, name, interests, occupation and personality, each conditioned on the last, and on request papers, a wallet, a home and an employer. Also on npm as `@dasmig/persona`. |
 | [**generator-cli**](https://github.com/dasmig/generator-cli) | Bulk generation from the command line as JSON Lines, CSV or JSON, repeatable with a seed. Binaries for Linux, macOS and Windows. |
 | [**generator-tech-demo**](https://github.com/dasmig/generator-tech-demo) | Every library compiled to WebAssembly with Emscripten, plus a persona demo. |
 
@@ -66,12 +66,13 @@ Every library is MIT-licensed, header-only, seedable and documented on GitHub Pa
 | [**device-generator**](https://github.com/dasmig/device-generator) | Devices whose parts agree: a model on sale at the date, its OS and browser versions, the real user agent and client hints, and an IP address registered in the country. |
 | [**user-generator**](https://github.com/dasmig/user-generator) | Synthetic user records for apps and test data: username, email, phone, address and account details, and on request national numbers, documents, bank accounts and cards. Also on npm as `@dasmig/user`. |
 
-### Papers and money
+### Papers, money and companies
 
 | Library | What it does |
 |---|---|
 | [**id-generator**](https://github.com/dasmig/id-generator) | National identity numbers for 63 countries, built from the birth date, sex, birthplace and names where the format encodes them, and passports and identity cards valid on the date with an ICAO 9303 machine-readable zone. Test data, with a `safe` mode. |
 | [**finance-generator**](https://github.com/dasmig/finance-generator) | Bank accounts and payment cards consistent with the person, the country and the date: IBANs and national forms with their check digits, the country's banks and currency, and cards with the right network, length and Luhn digit. Test data, never for live payment systems. |
+| [**company-generator**](https://github.com/dasmig/company-generator) | Companies that fit their country, for all 199 countries: industry, size, legal form, founding date, a name in the local language, registration numbers with valid check digits and a domain. Test data, with a `safe` mode. |
 
 ### Foundations
 
